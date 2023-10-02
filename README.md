@@ -1,6 +1,6 @@
-# **Django 5 Release** `Free Samples`
+# [Django 5 Release & Free Samples](https://blog.appseed.us/django-5-release-summary-and-sample/)
 
-As [announced](https://www.djangoproject.com/weblog/2023/sep/18/django-50-alpha-1-released/?ref=blog.appseed.us) on the official **Django** site, the [Django 5 Release](https://blog.appseed.us/django-5-release-summary-and-sample/) is out. For newcomers, **Django** is a high-level Python web framework that simplifies and accelerates web development by providing a robust set of tools, libraries, and conventions. It emphasizes rapid development, clean and pragmatic design, and follows the "Don't Repeat Yourself" (DRY) principle.
+As [announced](https://www.djangoproject.com/weblog/2023/sep/18/django-50-alpha-1-released) on the official **Django** site, the [Django 5 Release](https://blog.appseed.us/django-5-release-summary-and-sample/) is out. For newcomers, **Django** is a high-level Python web framework that simplifies and accelerates web development by providing a robust set of tools, libraries, and conventions. It emphasizes rapid development, clean and pragmatic design, and follows the "Don't Repeat Yourself" (DRY) principle.
 
 Since its first release in 2003, Django has been continuously improved by a super-active community where all the new features are discussed, voted, implemented, and later released.
 
@@ -86,7 +86,7 @@ Since its first release in 2003, Django has been continuously improved by a supe
 Django's history is characterized by its commitment to simplicity, best practices, and robustness. It has evolved to adapt to the changing landscape of web development while maintaining a strong focus on developer productivity and code quality.
 
 --- 
-Django 5 Release - Open-Source and Free samples provided by AppSeed. 
+[Django 5 Release & Free Samples](https://blog.appseed.us/django-5-release-summary-and-sample/) - Open-Source and Free samples provided by AppSeed. 
 
 
   
