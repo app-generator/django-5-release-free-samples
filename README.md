@@ -45,9 +45,8 @@ The below section provides a curated list of open-source starters that use alrea
 
 ## [Django v5 Datta Able](https://github.com/app-generator/django-v5-datta-able) 
 
-The product uses the version `Django==5.0a1`, and is also configured with an **API Generator**, **Dynamic DataTables** module, Docker, and **CI/Cd Flow** for `Render` and `DeployPRO`.  
-
-UI is provided by [CodedThemes](https://codedthemes.com/?ref=appseed), a well-known design agency on top of [Datta Able](https://appseed.us/product/datta-able/django/) design. 
+The **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** uses the version `Django==5.0a1`, and is also configured with an **API Generator**, **Dynamic DataTables** module, Docker, and **CI/Cd Flow** for `Render` and `DeployPRO`.
+UI is provided by `CodedThemes`, a well-known design agency on top of `Datta Able` design. 
 
 - 👉 [Django v5.x Datta Able](https://github.com/app-generator/django-v5-datta-able) - `Source Code`
 - 👉 [Django v5.x Datta Able](https://django-v5-datta.onrender.com/) - `LIVE Demo`
@@ -58,7 +57,7 @@ UI is provided by [CodedThemes](https://codedthemes.com/?ref=appseed), a well-kn
 
 ## [Django v5 Soft Dashboard](https://github.com/app-generator/django-v5-soft-dashboard)
 
-Open-source **Django** project crafted on top of **[Soft UI Dashboard](https://appseed.us/product/soft-ui-dashboard/django/)**, an open-source `Bootstrap 5` design from `Creative-Tim`.
+Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** crafted on top of **Soft UI Dashboard**, an open-source `Bootstrap 5` design from `Creative-Tim`.
 Designed for those who like bold elements and beautiful websites. Made of hundreds of elements, designed blocks and fully coded pages, `Soft UI Dashboard` is ready to help you create stunning websites and web apps.
 
 - 👉 Read more about **[Django 5 Release Highlights](https://blog.appseed.us/django-5-release-summary-and-sample/)**
@@ -70,7 +69,7 @@ Designed for those who like bold elements and beautiful websites. Made of hundre
 
 ## [Django v5 Volt Dashboard](https://github.com/app-generator/django-v5-volt-dashboard)
 
-Open-source **Django Dashboard** built on top of a modern design. **[Volt Dashboard](https://appseed.us/product/volt-dashboard/django/)** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are more than 100 free Bootstrap 5 components included some of them being buttons, alerts, modals, and datepickers.
+Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** built on top of a modern design. **Volt Dashboard** is a free and open source `Bootstrap 5` Admin Dashboard featuring over 100 components, 11 example pages and 3 plugins with Vanilla JS. There are over 100 free Bootstrap 5 components included, including buttons, alerts, modals, and date pickers.
 
 - 👉 Read more about **[Django 5 Release Highlights](https://blog.appseed.us/django-5-release-summary-and-sample/)**
 - 🚀 See more **[Open-source Django 5 Starters](https://github.com/app-generator/django-5-release-free-samples)**
